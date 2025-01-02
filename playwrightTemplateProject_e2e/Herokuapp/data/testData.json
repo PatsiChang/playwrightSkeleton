@@ -1,0 +1,13 @@
+[
+    {
+        "id": "addRemoveElement",
+        "numOfelements": 10
+  
+    },
+    {
+        "id": "basicAuth",
+        "user": "admin",
+        "pass": "admin"
+    }
+ 
+]

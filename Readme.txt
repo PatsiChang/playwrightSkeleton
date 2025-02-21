@@ -20,13 +20,6 @@ playwright.config.ts # This sits outside playwright-e2e folder, but is the confi
 1. Create a .env file in the root directory of this project if it doesn't already exist.
 2. Configure your .env file
 
-🚀 (ie. Scripts for Jenkins 
-Set-Location -Path "${The_path_to_the_current_directory}"
-PS D:\Patsi_Work\Source_Code\Playwright> 
-    for ($i = 1; $i -le 100; $i++) {
-        npx playwright test ./solopress_e2e/tests/ --workers=10
-    })
-
 📝 Running Tests 
 Headed: npx playwright test ./playwrightTemplateProject_e2e/Herokuapp/tests --headed
 Headless: npx playwright test ./playwrightTemplateProject_e2e/Herokuapp/tests
